@@ -1,4 +1,4 @@
-#Multi-Source AGN Variability & Time-Series Analysis
+Multi-Source AGN Variability & Time-Series Analysis
 This repository contains the analysis of three distinct Active Galactic Nuclei (AGN) sources. The project focuses on characterizing variability through light curve simulation and periodogram analysis to understand the underlying physical processes of the central engine.
 
 🚀 Project Overview
